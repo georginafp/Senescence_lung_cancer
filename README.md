@@ -1,5 +1,5 @@
 # Computational approach to senescence processes in lung cancer 
-This repository contains two scripts with the codes used for determining how senescence is affecting lung cancer in both, human and murine datasets. 
+This repository contains two scripts with the codes used for determining how senescence is affecting lung cancer in both, human and murine datasets. You can find them easily in the folder called 'Src'. 
 
 ## LUAD-project
 This script contains the analysis of a human dataset extracted from the TCGA repository (The Cancer Genome Atlas), in order to determine how is senescence affecting those patients that were under chemotherapy treatment conditions compared to the ones that were not under any treatment at all. 
