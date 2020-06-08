@@ -18,6 +18,6 @@ Hence, different approaches were considered:
 
 
 
-
+## Observations
 - Note that both scripts are supplemented with 'hashtags' explaining each code line, just to make sure every line is fully understanded and explained.
 - Nevertheless, those hashtags were writen in Catalan. 
